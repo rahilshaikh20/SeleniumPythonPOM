@@ -1,7 +1,6 @@
 ##Python
 tests/__pycache__/*
 
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -11,10 +10,6 @@ tests/__pycache__/*
 *.iml
 *.ipr
 .idea/*
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
 
 ### Others ###
 *.PNG
@@ -22,5 +17,3 @@ out/
 
 ### Mac OS ###
 .DS_Store
-
-### Folders ###
